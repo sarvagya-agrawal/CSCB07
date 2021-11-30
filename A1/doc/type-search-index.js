@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"assignment1","l":"acceptedPolygons"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"assignment1","l":"Mesh"},{"p":"assignment1","l":"Pentagon"},{"p":"assignment1","l":"Point"},{"p":"assignment1","l":"Polygon"},{"p":"assignment1","l":"Quadrilateral"},{"p":"assignment1","l":"Transformable"},{"p":"assignment1","l":"Triangle"}];updateSearchResults();
