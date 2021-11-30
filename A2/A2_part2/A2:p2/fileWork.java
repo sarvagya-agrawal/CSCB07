@@ -10,8 +10,7 @@ public class fileWork {
 
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
-		//fileFinder f = new fileFinder("/Users/sarvagya/Desktop/Univ/CSCB07/A2/Tweets2020/cristiano.txt");
-		//fileFinder f = new fileFinder("/Users/sarvagya/Desktop/Univ/CSCB07/A2/Tweets2020");
+		
 		System.out.println("Enter Full path to desired Directory:");
 		
 		Scanner input = new Scanner(System.in);
