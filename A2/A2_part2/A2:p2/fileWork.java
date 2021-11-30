@@ -32,7 +32,7 @@ public class fileWork {
 		
 		//f.findHashtags();
 		/*
-		 * File f = new File("/Users/sarvagya/Desktop/Univ/CSCB07/abcd.txt");
+		 * File f = new File("/.../.../../...txt");
 		 * 
 		 * Scanner scan11 = new Scanner(f);
 		 * 
